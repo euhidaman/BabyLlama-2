@@ -1,0 +1,9 @@
+accelerate
+idna
+ipykernel
+tokenizers
+torch
+torchaudio
+torchvision
+transformers
+wandb
